@@ -1,2 +1,1 @@
-<!-- ![Alicia Savelly's Resume](ResumePic.png) -->
-![Resume](http://aliciasavelly.github.io/Resume/AliciaSavellyResume.pdf)
+![Resume1](http://aliciasavelly.github.io/Resume/AliciaSavellyResume.pdf)
