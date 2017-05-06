@@ -1,0 +1,42 @@
+html {
+  padding: 0;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  margin: auto;
+}
+
+body {
+  /*margin-top: 20px;*/
+  padding: 60px 0 60px 0;
+  margin: auto;
+  width: 675px;
+}
+
+h2 {
+  color: #1D9C73;
+  font-size: 18px;
+  margin: 2px 0 2px 0;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.right p {
+  text-align: right;
+}
+
+.first-line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.italicized {
+  font-style: italic;
+}
