@@ -16,11 +16,33 @@ h2 {
   color: #1D9C73;
   font-size: 18px;
   margin: 2px 0 2px 0;
+  text-shadow: 1px 0px 0px #1D9C73; /* the textcolor */
+  padding-right: 1px;
+  letter-spacing: 1px;
+}
+
+.no-underline {
+  text-decoration: none;
 }
 
 .top-section {
   display: flex;
   justify-content: space-between;
+}
+
+ul {
+  margin: 5px 0 12px 0;
+  padding-left: 16px;
+}
+
+li {
+  margin: 3px 0 3px 0;
+}
+
+p strong {
+  text-shadow: 1px 0px 0px #000; /* the textcolor */
+  padding-right: 1px;
+  letter-spacing: 1px;
 }
 
 p {
@@ -39,4 +61,8 @@ p {
 
 .italicized {
   font-style: italic;
+}
+
+.section h2 {
+  padding-bottom: 5px;
 }
