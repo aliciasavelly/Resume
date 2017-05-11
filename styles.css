@@ -61,6 +61,7 @@ p {
 
 .italicized {
   font-style: italic;
+  padding: 5px 0 5px 0;
 }
 
 .section h2 {
