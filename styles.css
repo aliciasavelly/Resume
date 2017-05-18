@@ -67,3 +67,7 @@ p {
 .section h2 {
   padding-bottom: 5px;
 }
+
+.skills {
+  white-space: pre;
+}
